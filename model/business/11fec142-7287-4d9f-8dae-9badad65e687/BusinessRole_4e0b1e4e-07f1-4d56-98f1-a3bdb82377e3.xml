@@ -1,0 +1,5 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Manobrista"
+    id="4e0b1e4e-07f1-4d56-98f1-a3bdb82377e3"
+    documentation="Manobra dos carros nas vagas do estacionamento, registro de entrada e saída dos carros."/>
